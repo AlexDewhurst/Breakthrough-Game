@@ -127,6 +127,14 @@
             }
         },
         {
+            "Key": "89b3b36f-ffe6-4435-ae21-04d163ae68e0",
+            "Value": {
+                "id": "d3f30952-2dc9-4913-a17f-9d9a4a6b0644",
+                "resourcePath": "objects\\obj_powers\\obj_powers.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "94a87a46-52b7-4ad1-bbaf-8687f89792ad",
             "Value": {
                 "id": "a45e0fe2-9af2-410e-a829-00c3014697fc",
