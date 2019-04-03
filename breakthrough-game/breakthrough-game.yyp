@@ -39,6 +39,14 @@
             }
         },
         {
+            "Key": "23f0ccd6-57fc-4681-87b8-f1379ee63525",
+            "Value": {
+                "id": "a49bccd1-0ef5-472e-bc5e-7ff8d7db4f60",
+                "resourcePath": "objects\\obj_control\\obj_control.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "29b2482f-dc5e-4f7a-b572-01f8cc0e9277",
             "Value": {
                 "id": "13fe6cb6-aef9-4b60-8562-2a6c032bdc1a",
@@ -151,11 +159,27 @@
             }
         },
         {
+            "Key": "b7e0754d-6a23-4f8a-87a5-f5a417c8374d",
+            "Value": {
+                "id": "398b6f30-f650-4852-84f4-01b9dce5811d",
+                "resourcePath": "sprites\\spr_powers\\spr_powers.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "bce9f1ac-89c4-461c-a351-47f8eedeb694",
             "Value": {
                 "id": "b4199815-970f-4035-b1f0-bea6c0d90a31",
                 "resourcePath": "views\\bce9f1ac-89c4-461c-a351-47f8eedeb694.yy",
                 "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "be3d3d39-e3ef-4c62-ae46-48721e5748f4",
+            "Value": {
+                "id": "b5d2de5e-ab13-4924-b03d-ef6a277ca46b",
+                "resourcePath": "fonts\\fnt_game\\fnt_game.yy",
+                "resourceType": "GMFont"
             }
         },
         {
